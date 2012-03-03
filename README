@@ -1,1 +1,1 @@
-Polyphonic synthesizer patch for Pure Data.  This was my final project for the course MUS171 (Computer Music I) at UCSD.
+Polyphonic synthesizer patch for Pure Data.  This was my final project for the course MUS171 (Computer Music I) at UCSD. Works with the vanilla distribution of Pure Data.  The only dependency is Tom Erbe's adsr patch which is also included in this repository.
